@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/ConsDemo/src/com/company/Main.java" timestamp="1561189574566">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ConsDemo/src/com/company/MyClass.java" timestamp="1561189534748">
+        <mark key="[" line="2" column="22" />
+      </file>
       <file name="/fragment.java" timestamp="1561187427436">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,8 +25,11 @@
       <register name="1" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJl</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJl</text>
       </register>
     </registers>
     <search>
