@@ -8,10 +8,21 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1561191563495">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ConsDemo/src/com/company/MyClass.java" timestamp="1561189534748">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1561187427436">
+      <file name="$USER_HOME$/IdeaProjects/VehConsDemo/src/com/company/Vehicle.java" timestamp="1561191423467">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VehConsDemo/src/com/company/Main.java" timestamp="1561191367171">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1561191481124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Helloworld/src/com/company/Main.java" timestamp="1559722767004">
@@ -26,10 +37,10 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJl</text>
+        <text>Main</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJl</text>
+        <text>Main</text>
       </register>
     </registers>
     <search>
@@ -42,6 +53,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
